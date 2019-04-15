@@ -1,0 +1,670 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKApp.swift",
+      "line": 15,
+      "symbol": "BKApp.salt",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": null,
+      "symbol": "BKArticle.Info",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 12,
+      "symbol": "BKArticle.Info",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 23,
+      "symbol": "BKArticle.Info.Statistics",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 24,
+      "symbol": "BKArticle.Info.Statistics.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 25,
+      "symbol": "BKArticle.Info.Statistics.favorite",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 26,
+      "symbol": "BKArticle.Info.Statistics.like",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 27,
+      "symbol": "BKArticle.Info.Statistics.dislike",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 28,
+      "symbol": "BKArticle.Info.Statistics.reply",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 29,
+      "symbol": "BKArticle.Info.Statistics.share",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKArticle+Info.swift",
+      "line": 30,
+      "symbol": "BKArticle.Info.Statistics.coin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Info.swift",
+      "line": 45,
+      "symbol": "BKAudio.Info.Statistic",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Info.swift",
+      "line": 47,
+      "symbol": "BKAudio.Info.Statistic.play",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Info.swift",
+      "line": 48,
+      "symbol": "BKAudio.Info.Statistic.collect",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Info.swift",
+      "line": 49,
+      "symbol": "BKAudio.Info.Statistic.comment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Info.swift",
+      "line": 50,
+      "symbol": "BKAudio.Info.Statistic.share",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Info.swift",
+      "line": 52,
+      "symbol": "BKAudio.Info.statistic",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": null,
+      "symbol": "BKAudio.Staff",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": 12,
+      "symbol": "BKAudio.StaffList",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": 13,
+      "symbol": "BKAudio.Staff",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": 22,
+      "symbol": "BKAudio.Staff.role",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": 32,
+      "symbol": "BKAudio.Staff.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": 36,
+      "symbol": "BKAudio.Staff.mid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKAudio+Staff.swift",
+      "line": 72,
+      "symbol": "BKAudio.Staff.Role.iDidItAllMySelf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKCookie.swift",
+      "line": 65,
+      "symbol": "BKCookie.CodingKeys.mid",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKCookie.swift",
+      "line": 66,
+      "symbol": "BKCookie.CodingKeys.md5Sum",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKCookie.swift",
+      "line": 67,
+      "symbol": "BKCookie.CodingKeys.sessionData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKCookie.swift",
+      "line": 68,
+      "symbol": "BKCookie.CodingKeys.csrf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKCurrentUser.swift",
+      "line": 11,
+      "symbol": "BKCurrentUser",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKCurrentUser.swift",
+      "line": 14,
+      "symbol": "BKUser.current",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 11,
+      "symbol": "BKError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 12,
+      "symbol": "BKError.ParseErrorReason",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 13,
+      "symbol": "BKError.ParseErrorReason.regexMatchNotFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 14,
+      "symbol": "BKError.ParseErrorReason.stringDecodeFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 15,
+      "symbol": "BKError.ParseErrorReason.jsonDecode(_:failure:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 16,
+      "symbol": "BKError.ParseErrorReason.dataEncodeFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 18,
+      "symbol": "BKError.ResponseErrorReason",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 19,
+      "symbol": "BKError.ResponseErrorReason.urlSessionError(_:response:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 20,
+      "symbol": "BKError.ResponseErrorReason.accessDenied",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 21,
+      "symbol": "BKError.ResponseErrorReason.reason(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 22,
+      "symbol": "BKError.ResponseErrorReason.emptyJSONResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 24,
+      "symbol": "BKError.ImplementationErrorReason",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 25,
+      "symbol": "BKError.ImplementationErrorReason.invalidURL(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 26,
+      "symbol": "BKError.ImplementationErrorReason.invalidRegex(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 27,
+      "symbol": "BKError.ImplementationErrorReason.invalidIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 28,
+      "symbol": "BKError.ImplementationErrorReason.invalidDataEncoding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 30,
+      "symbol": "BKError.EncryptionErrorReason",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 31,
+      "symbol": "BKError.EncryptionErrorReason.publicKeySecKeyGenerationFailure(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 32,
+      "symbol": "BKError.EncryptionErrorReason.rsaEncryptFailure(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 35,
+      "symbol": "BKError.implementationError(reason:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 36,
+      "symbol": "BKError.parseError(reason:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 37,
+      "symbol": "BKError.responseError(reason:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKError.swift",
+      "line": 38,
+      "symbol": "BKError.encryptError(reason:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom+Info.swift",
+      "line": 16,
+      "symbol": "BKLiveRoom.Info.roomID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom+Info.swift",
+      "line": 17,
+      "symbol": "BKLiveRoom.Info.shortID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom+Info.swift",
+      "line": 22,
+      "symbol": "BKLiveRoom.Info.isPortrait",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom+Info.swift",
+      "line": 33,
+      "symbol": "BKLiveRoom.Info.background",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom+Info.swift",
+      "line": 34,
+      "symbol": "BKLiveRoom.Info.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom+Info.swift",
+      "line": 37,
+      "symbol": "BKLiveRoom.Info.keyframeSnapshotURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom.swift",
+      "line": null,
+      "symbol": "BKLiveRoom",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom.swift",
+      "line": null,
+      "symbol": "BKLiveRoom",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKLiveRoom.swift",
+      "line": 9,
+      "symbol": "BKLiveRoom",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": null,
+      "symbol": "BKSession.QRCodeLoginHelper",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": null,
+      "symbol": "BKSession.QRCodeLoginHelper",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 13,
+      "symbol": "BKSession.QRCodeLoginHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 158,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 159,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.errored",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 160,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.started",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 161,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.needsConfirmation",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 162,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.succeeded(cookie:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 163,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.expired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 164,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.missingOAuthKey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKSession+QRCodeLoginHelper.swift",
+      "line": 165,
+      "symbol": "BKSession.QRCodeLoginHelper.LoginState.unknown(status:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUpUser.swift",
+      "line": 13,
+      "symbol": "BKUser.up",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+AudioStat.swift",
+      "line": 12,
+      "symbol": "BKUser.AudioStat",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 25,
+      "symbol": "BKUser.Info.level",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 34,
+      "symbol": "BKUser.Info.Official",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 35,
+      "symbol": "BKUser.Info.Official.role",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 36,
+      "symbol": "BKUser.Info.Official.desc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 37,
+      "symbol": "BKUser.Info.Official.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 39,
+      "symbol": "BKUser.Info.official",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 40,
+      "symbol": "BKUser.Info.VIP",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 41,
+      "symbol": "BKUser.Info.VIP.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 42,
+      "symbol": "BKUser.Info.VIP.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 44,
+      "symbol": "BKUser.Info.vip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 104,
+      "symbol": "BKUser.Info.BiologicalSex",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 105,
+      "symbol": "BKUser.Info.BiologicalSex.male",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 106,
+      "symbol": "BKUser.Info.BiologicalSex.female",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Info.swift",
+      "line": 107,
+      "symbol": "BKUser.Info.BiologicalSex.secret",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKUser+Relationship.swift",
+      "line": 12,
+      "symbol": "BKUser.Relationship",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKVideo+Info.swift",
+      "line": 11,
+      "symbol": "PlaybackCount",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKVideo+Info.swift",
+      "line": 39,
+      "symbol": "PlaybackCount.notAvailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKVideo+Info.swift",
+      "line": 40,
+      "symbol": "PlaybackCount.times(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/BKVideo+Info.swift",
+      "line": 59,
+      "symbol": "BKVideo.Info.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/ApolloZhu/BilibiliKit/Sources/URLSession+Extensions.swift",
+      "line": 16,
+      "symbol": "BKWrapper.Wrapped",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/travis/build/ApolloZhu/BilibiliKit"
+}

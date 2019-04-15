@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>QRCodeLoginHelper Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../../js/jquery.min.js" defer></script>
+    <script src="../../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/QRCodeLoginHelper" class="dashAnchor"></a>
+    <a title="QRCodeLoginHelper Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../../index.html">BilibiliKit Docs</a> (68% documented)</p>
+        <p class="header-right"><a href="https://github.com/ApolloZhu/BilibiliKit"><img src="../../img/gh.png"/>View on GitHub</a></p>
+        <p class="header-right"><a href="dash-feed://https%3A%2F%2Fapollozhu%2Egithub%2Eio%2FBilibiliKit%2Fdocsets%2FBilibiliKit"><img src="../../img/dash.png"/>Install in Dash</a></p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../../index.html">BilibiliKit Reference</a>
+        <img id="carat" src="../../img/carat.png" />
+        QRCodeLoginHelper Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Classes.html#/s:11BilibiliKit13BKCurrentUserC">BKCurrentUser</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKSession.html">BKSession</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKSession/QRCodeLoginHelper.html">– QRCodeLoginHelper</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKUpUser.html">BKUpUser</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKUpUser/Stat.html">– Stat</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKUser.html">BKUser</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKUser/AudioStat.html">– AudioStat</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKUser/Info.html">– Info</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/BKUser/Relationship.html">– Relationship</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Enums/BKApp.html">BKApp</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/BKError.html">BKError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/BKError/ParseErrorReason.html">– ParseErrorReason</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/BKError/ResponseErrorReason.html">– ResponseErrorReason</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/BKError/ImplementationErrorReason.html">– ImplementationErrorReason</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/BKError/EncryptionErrorReason.html">– EncryptionErrorReason</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/PlaybackCount.html">PlaybackCount</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Extensions/URL.html">URL</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/URLSession.html">URLSession</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Protocols/BKWrapper.html">BKWrapper</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Structs/BKArticle.html">BKArticle</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKArticle/Info.html">– Info</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKAudio.html">BKAudio</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKAudio/Info.html">– Info</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKAudio/Staff.html">– Staff</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKAudio/URLs.html">– URLs</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKCookie.html">BKCookie</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKCookie/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKLiveRoom.html">BKLiveRoom</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKLiveRoom/Info.html">– Info</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKVideo.html">BKVideo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKVideo/Info.html">– Info</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKVideo/Page.html">– Page</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKWrapperMessage.html">BKWrapperMessage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BKWrapperMsg.html">BKWrapperMsg</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Typealiases.html#/s:11BilibiliKit9BKHandlera">BKHandler</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>QRCodeLoginHelper</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">QRCodeLoginHelper</span></code></pre>
+
+                </div>
+              </div>
+            <p>Undocumented</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperCAEycfc"></a>
+                    <a name="//apple_ref/swift/Method/init()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperCAEycfc">init()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Initialize a new login helper.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/ApolloZhu/BilibiliKit/blob/master/Sources/BKSession+QRCodeLoginHelper.swift#L15">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC7defaultAEvpZ"></a>
+                    <a name="//apple_ref/swift/Variable/default" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC7defaultAEvpZ">default</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Default login helper</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">let</span> <span class="p">`</span><span class="nv">default</span><span class="p">`:</span> <span class="kt"><a href="../../Classes/BKSession.html">BKSession</a></span><span class="o">.</span><span class="kt">QRCodeLoginHelper</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/ApolloZhu/BilibiliKit/blob/master/Sources/BKSession+QRCodeLoginHelper.swift#L29">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC9interruptyyF"></a>
+                    <a name="//apple_ref/swift/Method/interrupt()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC9interruptyyF">interrupt()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Interrupt current attempt.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">interrupt</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/ApolloZhu/BilibiliKit/blob/master/Sources/BKSession+QRCodeLoginHelper.swift#L43">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Login%20URL%20Fetching"></a>
+                <a name="//apple_ref/swift/Section/Login URL Fetching" class="dashAnchor"></a>
+                <a href="#/Login%20URL%20Fetching">
+                  <h3 class="section-name">Login URL Fetching</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC0E3URLV"></a>
+                    <a name="//apple_ref/swift/Struct/LoginURL" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC0E3URLV">LoginURL</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Only valid for 3 minutes</p>
+
+                        <a href="../../Classes/BKSession/QRCodeLoginHelper/LoginURL.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LoginURL</span> <span class="p">:</span> <span class="kt">Codable</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/ApolloZhu/BilibiliKit/blob/master/Sources/BKSession+QRCodeLoginHelper.swift#L120-L129">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Login%20Info%20Fetching"></a>
+                <a name="//apple_ref/swift/Section/Login Info Fetching" class="dashAnchor"></a>
+                <a href="#/Login%20Info%20Fetching">
+                  <h3 class="section-name">Login Info Fetching</h3>
+                </a>
+              </div>
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC0E5StateO"></a>
+                    <a name="//apple_ref/swift/Enum/LoginState" class="dashAnchor"></a>
+                    <a class="token" href="#/s:11BilibiliKit9BKSessionC17QRCodeLoginHelperC0E5StateO">LoginState</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                        <a href="../../Classes/BKSession/QRCodeLoginHelper/LoginState.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">LoginState</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/ApolloZhu/BilibiliKit/blob/master/Sources/BKSession+QRCodeLoginHelper.swift#L158-L175">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2019 <a class="link" href="https://apollozhu.github.io" target="_blank" rel="external">ApolloZhu</a>. All rights reserved. (Last updated: 2019-04-15)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.6</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
